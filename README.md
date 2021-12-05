@@ -1,2 +1,4 @@
 # ValentiniAllettamentideCamera
-Transcription of 12 Allettamenti de Camera by Giuseppe Valentini for Double Bass
+A Transcription of 12 Allettamenti de Camera by Giuseppe Valentini for Double Bass
+
+"12 Allettamenti de Camera" was published in 1714 by Giuseppe Valetini (as best I can tell, see https://imslp.org/wiki/12_Allettamenti_da_Camera%2C_Op.8_(Valentini%2C_Giuseppe)). This was written for treble solo instrument and basso continuo, as was fairly traditional at the time. This project is a transcription of these pieces for Double Bass and piano / harpsichord, utilizing primarily the republished Roger and Le Cene edition (around 1728?), with some reference to the original. The intention is not to present a brilliant arrangement of the harmony, but something that is playable, with a strong invitation for more knowledgeable musicians to improve upon it. These are nice little pieces that are not played too often, and this might be the first attempt at getting them into the double bass repertoire.
